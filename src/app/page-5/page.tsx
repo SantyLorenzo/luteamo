@@ -4,18 +4,6 @@ import { useState } from 'react';
 import Link from 'next/link';
 import Modal from '../components/Modal';
 
-const images = [
-  {
-    src: '/page-4/x0.jpeg',
-    alt: 'teamo x0'
-  },
-  {
-    src: '/page-4/x1.jpeg',
-    alt: 'teamo x1'
-  },
-];
-
-
 export default function FifthPage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
