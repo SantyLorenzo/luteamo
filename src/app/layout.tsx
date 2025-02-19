@@ -9,8 +9,8 @@ const inknutAntiqua = Inknut_Antiqua({
 });
 
 export const metadata: Metadata = {
-  title: "Luteamo - A Love Letter",
-  description: "A special message for my girlfriend",
+  title: "Luteamo - sos la mas linda",
+  description: "pa la mas linda de toda",
 };
 
 export default function RootLayout({
