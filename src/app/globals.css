@@ -2,6 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  body {
+    @apply min-h-screen bg-gray-50;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-3 rounded-lg transition-all duration-300 font-medium text-center;
+  }
+  
+  .btn-primary {
+    @apply btn bg-pink-600 text-white hover:bg-pink-700;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-gray-200 text-gray-800 hover:bg-gray-300;
+  }
+
+  .page-container {
+    @apply min-h-screen flex flex-col items-center justify-center p-4 md:p-8;
+  }
+
+  .content-container {
+    @apply w-full max-w-4xl mx-auto text-center;
+  }
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
