@@ -68,7 +68,7 @@ export default function SecondPage() {
           me puse sentimental y tuve viendo como
           todas las fotos que tenemos.
           <br />
-          mencantan
+          ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️
         </p>
         
         <div className="my-12 rounded-lg overflow-hidden">
