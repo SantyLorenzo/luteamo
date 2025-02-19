@@ -14,7 +14,7 @@ export default function BackgroundMusic() {
       if (playPromise !== undefined) {
         playPromise.then(() => {
           setShowPlayButton(false);
-        }).catch(error => {
+        }).catch(() => {
           // Si falla el autoplay, mantenemos el botón visible
           console.log("Autoplay prevented, showing button");
         });
