@@ -7,7 +7,7 @@ import ImageCarousel from '../components/ImageCarousel';
 
 const images = [
   {
-    src: '/page-4/x0.jpeg',
+    src: '/page-4/x4.jpeg',
     alt: 'teamo x0'
   },
   {
@@ -19,7 +19,7 @@ const images = [
     alt: 'teamo x2'
   },
   {
-    src: '/page-4/x4.jpeg',
+    src: '/page-4/x0.jpeg',
     alt: 'teamo x4'
   },
   {

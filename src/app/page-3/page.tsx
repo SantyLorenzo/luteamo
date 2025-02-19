@@ -30,10 +30,6 @@ const images = [
     src: '/page-3/x5.jpeg',
     alt: 'teamo x5'
   },
-  {
-    src: '/page-3/x7.png',
-    alt: 'teamo x7'
-  },
 ];
 
 export default function ThirdPage() {
