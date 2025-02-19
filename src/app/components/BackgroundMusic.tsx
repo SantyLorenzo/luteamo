@@ -38,7 +38,7 @@ export default function BackgroundMusic() {
           onClick={startMusic}
           className="fixed bottom-4 right-4 z-50 bg-[#AC0D0D] text-white px-6 py-3 rounded-none border-2 border-[#000000] hover:bg-[#8A0B0B] transition-colors [text-shadow:_-1px_-1px_0_#000000,_1px_-1px_0_#000000,_-1px_1px_0_#000000,_1px_1px_0_#000000] shadow-[0_0_10px_#AC0D0D]"
         >
-          ♫ Click para música
+          si quere que suene un temita ♫
         </button>
       )}
       <audio
