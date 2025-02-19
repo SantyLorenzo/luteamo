@@ -2,9 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import Modal from '../components/Modal';
-import ImageCarousel from '../components/ImageCarousel';
 
 const images = [
   {
