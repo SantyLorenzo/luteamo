@@ -26,6 +26,7 @@ export default function FifthPage() {
       style={{
         backgroundImage: "url('/page-5/x0.jpeg')",
         backgroundBlendMode: 'overlay',
+        
       }}>
       <div className="content-container space-y-8">
         <p className="text-xl md:text-lg text-white mb-12 max-w-lg mx-auto leading-relaxed [text-shadow:_-1px_-1px_0_#000000,_1px_-1px_0_#000000,_-1px_1px_0_#000000,_1px_1px_0_#000000]">
